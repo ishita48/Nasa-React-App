@@ -10,9 +10,10 @@ The NASA APOD Explorer is your gateway to exploring the cosmos through captivati
 
 or watch the demo by clicking on the icon below: 
 
-<a href="#" target="_blank">
-    <img src="#" alt="Watch the demo" width="200">
+<a href="https://youtu.be/T9WjE1YfVZQ" target="_blank">
+    <img src="https://img.youtube.com/vi/T9WjE1YfVZQ/0.jpg" alt="Watch the demo" width="200">
 </a>
+
 
 ## 🌌 How to Explore
 
