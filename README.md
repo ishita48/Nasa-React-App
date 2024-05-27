@@ -81,7 +81,7 @@ Embark on an unforgettable exploration of the cosmos with the NASA APOD Explorer
 
 ## MIT License
 
-This project is licensed under the terms of the MIT license. See the LICENSE file for details.
+This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/ishita48/Nasa-React-App?tab=MIT-1-ov-file) for details.
 
 For contributions, feedback, or inquiries, please feel free to reach out through the Issues or Pull Requests sections of this repository. Let's make the NASA APOD Explorer an even more stellar experience!
 
